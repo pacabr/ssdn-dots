@@ -1,0 +1,14 @@
+[user]
+  name = Peter Cabrera
+  email = pacabr@gmail.com
+
+[github]
+  user = pacabr
+
+[core]
+  excludesfile = ~/.gitignore_global
+  editor = nano
+  filemode = false
+  trustctime = false
+    autocrlf = input
+
